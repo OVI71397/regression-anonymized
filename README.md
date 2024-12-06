@@ -29,9 +29,9 @@ This repository provides a solution for predicting the target variable in a data
    ```Shell
    python train.py
    ```
-   You should see the following message: * * Model training completed. RMSE: 0.0014 * *
+   You should see the following message: _ _ Model training completed. RMSE: 0.0014 _ _
 2. Use the predict.py script to generate predictions for the hidden test dataset.
    ```Shell
    python predict.py
    ```
-   You should see the following message: * * Predictions saved to predictions.csv * *
+   You should see the following message: _ _ Predictions saved to predictions.csv _ _
